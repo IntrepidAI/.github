@@ -36,3 +36,20 @@ Create scenarios and program your robot fleet in one place.
 From Agtech to industrial robotics, Intrepid Studio supports your most challenging ambitions and helps your deploy your robotic applications in a way that is secure and intuitive to use.
 
 
+<p align="center">
+<!--   <img src="" alt="App screenshot"> -->
+  <br />
+  <br />
+  
+  <a href="https://twitter.com/intrepidstudiodev">
+  </a>
+  <a href="https://instagram.com/spacedriveapp">
+  </a>
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
+  </a>
+  <img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
+  <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
+  <br />
+</p>
+
