@@ -4,8 +4,7 @@
   </a>
   <p align="center">
 
-    
-      </p>
+  </p>
   <h1 align="center"><b>Intrepid Studio</b></h1>
   <p align="center">
   Empowering Robotics Ambitions.
