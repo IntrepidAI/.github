@@ -1,11 +1,8 @@
 
 <p align="center">
-  <a href="#">
+  <img width="150" height="150" src="https://github.com/Intrepidlab/.github/assets/11614447/e45145d6-4377-4696-866f-bc9652343f1b" alt="Logo">
 
-  </a>
-  <p align="center">
 
-  </p>
   <h1 align="center"><b>Intrepid Studio</b></h1>
   <p align="center">
   Empowering Robotics Ambitions.
