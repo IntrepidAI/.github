@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="150" height="150" src="https://github.com/Intrepidlab/.github/assets/11614447/e45145d6-4377-4696-866f-bc9652343f1b" alt="Logo">
+  <img width="100" height="100" src="https://intrepidlabs.net/wp-content/uploads/2023/07/intrepid-logo.svg)" alt="Logo">
 
 
   <h1 align="center"><b>Intrepid Labs</b></h1>
