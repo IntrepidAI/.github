@@ -7,7 +7,7 @@
   <p align="center">
   Empowering Robotics Ambitions.
     <br />
-    <a href="https://intrepidlabs.net"><strong>intrepid.ai </strong></a>
+    <a href="https://intrepid.ai"><strong>intrepid.ai </strong></a>
     <br />
     <br />
     <b>Download for </b>
