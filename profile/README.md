@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100" height="100" src="https://intrepidlabs.net/wp-content/uploads/2023/07/intrepid-logo.svg)" alt="Logo">
+  <img width="100" height="100" src="https://intrepid.ai/wp-content/uploads/2023/07/intrepid-logo.svg)" alt="Logo">
 
 
   <h1 align="center"><b>IntrepidAI</b></h1>
