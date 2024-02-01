@@ -1,12 +1,14 @@
 
 <p align="center">
+  <a href="https://intrepid.ai">
   <img width="250px" src="https://intrepid.ai/wp-content/uploads/2024/02/intrepid-logo-full-large.png" alt="Logo">
-
-  <h1 align="center"><b>IntrepidAI</b></h1>
+  </a>
+  
+    
   <p align="center">
-  Empowering Robotics Ambitions.
+    <b>Homepage:</b>
     <br />
-    <a href="https://intrepid.ai"><strong>intrepid.ai </strong></a>
+    <a href="https://intrepid.ai"><strong>https://intrepid.ai </strong></a>
     <br />
     <br />
     <b>Download for </b>
@@ -20,14 +22,14 @@
     <i>~ Links will be added once a release is available. ~</i>
   </p>
 </p>
-Intrepid Labs is a cross-platform robotics application integrated environment, powered by cutting-edge research and written in Rust.
+Intrepid AI is a cross-platform robotics application integrated environment, powered by cutting-edge research and written almost entirely in Rust.
 <br/>
 <br/>
 
-> NOTE: Intrepid Labs is under active development, most of the listed features are still experimental and subject to change.
+> NOTE: Intrepid AI is under active development, most of the listed features are still experimental and subject to change.
 
 Create scenarios and program your robot fleet in one place. 
-From Agtech to industrial robotics, Intrepid Labs supports your most challenging ambitions and helps your deploy your robotic applications in a way that is secure and intuitive to use.
+From Agtech to industrial robotics, Intrepid AI supports your most challenging ambitions and helps your deploy your robotic applications in a way that is secure and intuitive to use.
 
 
 <p align="center">
@@ -37,8 +39,7 @@ From Agtech to industrial robotics, Intrepid Labs supports your most challenging
   
   <a href="https://twitter.com/intrepidLabsdev">
   </a>
-  <a href="https://instagram.com/spacedriveapp">
-  </a>
+
 <!--   <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
   </a> -->
