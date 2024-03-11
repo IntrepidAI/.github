@@ -12,12 +12,9 @@
     <br />
     <br />
     <b>Download for </b>
-    macOS
-    ·
-    Windows
-    ·
     Linux
     ·
+    Windows
     <br />
     <i>~ Links will be added once a release is available. ~</i>
   </p>
