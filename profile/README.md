@@ -1,10 +1,8 @@
 
 <p align="center">
   <a href="https://intrepid.ai">
-  <img width="250px" src="https://intrepid.ai/wp-content/uploads/2024/02/intrepid-logo-full-large.png" alt="Logo">
-  </a>
-  
-    
+  <img width="250px" src="https://github.com/IntrepidAI/.github/blob/main/profile/Intrepid.png" alt="Logo">
+  </a>    
   <p align="center">
     <b>Homepage:</b>
     <br />
