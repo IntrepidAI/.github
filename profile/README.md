@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://intrepid.ai">
-  <img width="180px" src="https://github.com/IntrepidAI/.github/blob/main/profile/Intrepid.png" alt="Logo">
+  <img width="120px" src="https://github.com/IntrepidAI/.github/blob/main/profile/Intrepid.png" alt="Logo">
   </a>    
   <p align="center">
     <b>Homepage:</b>
