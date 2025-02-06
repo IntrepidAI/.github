@@ -26,6 +26,15 @@ Intrepid AI is a cross-platform robotics application integrated environment, pow
 Create scenarios and program your robot fleet in one place. 
 From Agtech to industrial robotics, Intrepid AI supports your most challenging ambitions and helps your deploy your robotic applications in a way that is secure and intuitive to use.
 
+## Get Started with Documentation
+
+Ready to dive deeper? Check out our official documentation to get started: [Intrepid AI Documentation](https://docs.intrepid.ai)
+
+## Version 0.10 Overview
+
+Curious about what's new in version 0.10? Read the full release overview here: [Intrepid AI 0.10 - Ready for Liftoff](https://intrepidai.substack.com/p/intrepid-ai-010-ready-for-liftoff)
+
+
 ## Tutorials
 
 Want to learn how to use Intrepid AI? Check out our tutorial series:
