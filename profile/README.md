@@ -26,6 +26,18 @@ Intrepid AI is a cross-platform robotics application integrated environment, pow
 Create scenarios and program your robot fleet in one place. 
 From Agtech to industrial robotics, Intrepid AI supports your most challenging ambitions and helps your deploy your robotic applications in a way that is secure and intuitive to use.
 
+## Tutorials
+
+Want to learn how to use Intrepid AI? Check out our tutorial series:
+
+- [Episode 1: Introduction to the platform and capabilities](https://youtu.be/19lvN2TejII)
+- [Episode 2: Custom nodes and modular projects](https://youtu.be/_2xoy7Af_J0)
+- [Episode 3: Bring Your Code with Python SDK (Part 1)](https://youtu.be/E-XCS25pxJw)
+- [Episode 4: Bring Your Code with Python SDK (Part 2)](https://youtu.be/XsJNO8k9v_o)
+- [Episode 5: Collaborative Editing](https://youtu.be/g8oKFV8qyKc)
+- [Episode 6: Data streams and Telemetry](https://youtu.be/on8fAr-Qkz8)
+- [Episode 7: Integration with ROS 2](https://youtu.be/ZWb0WYxckto)
+
 
 <p align="center">
 <!--   <img src="" alt="App screenshot"> -->
@@ -42,4 +54,6 @@ From Agtech to industrial robotics, Intrepid AI supports your most challenging a
   <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
   <br />
 </p>
+
+
 
